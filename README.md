@@ -1,0 +1,2 @@
+# high_availability
+基于LVS、Nginx和Redis的多服务高可用负载均衡集群方案设计
